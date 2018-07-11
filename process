@@ -1,0 +1,5 @@
+함수 부르는방식 매개변수 넘기는거
+call by reference 
+call by value(c언어기반)
+==> 모든프로세스는 독립적인공간을갖고잇어서 파이프 개념 사용해야함
+파이프는 callbyvalue(배열사용) 

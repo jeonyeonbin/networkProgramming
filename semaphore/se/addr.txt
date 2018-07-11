@@ -1,0 +1,7 @@
+google.co.kr	google	172.217.26.3	5
+naver.com	naver	125.209.222.141	2
+hs.ac.kr	hanshin	203.252.23.10	4
+daum.net	daum	203.133.167.81	10
+youtube.com	youtube	216.58.197.238	20
+facebook.com    faceb   31.13.95.36     30
+instagram.com   insta   123.23.11.56    23

@@ -1,0 +1,5 @@
+MemberDTO dto = new MemberDAO().getMemberLoginDTO(""); <--- 큰따옴표안에 로그인값을 줘야댐
+String memberID =dto.getMEMBER_ID();
+String pwd = dto.getPASSWORD();
+String customerName =dto.CUSTOMER_NAME();
+Mem_name.setText(memberID) <---??텍스트 삽입하는거잇을거임

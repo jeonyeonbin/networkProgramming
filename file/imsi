@@ -1,0 +1,27 @@
+합계 244204
+drwxrwxr-x 3 jyb5858 jyb5858     4096 10월 23 18:06 .
+drwxrwxr-x 4 jyb5858 jyb5858     4096 10월 17 18:06 ..
+-rw-rw-r-- 1 jyb5858 jyb5858 61478880 10월 23 14:39 data1.dat
+-rw-rw-r-- 1 jyb5858 jyb5858 61478880 10월 23 18:06 data2.dat
+-rw-rw-r-- 1 jyb5858 jyb5858 61478880 10월 23 17:42 data3.dat
+drwxrwxr-x 3 jyb5858 jyb5858     4096 10월 22 22:07 dataFile
+-rw-rw-r-- 1 jyb5858 jyb5858      286 10월 20 02:42 file.c
+-rwxrwxr-x 1 jyb5858 jyb5858    14016 10월 22 18:22 file_cilent
+-rwxrwxr-x 1 jyb5858 jyb5858    14016 10월 23 03:43 file_clien
+-rwxrwxr-x 1 jyb5858 jyb5858    14016 10월 23 18:06 file_client
+-rw-rw-r-- 1 jyb5858 jyb5858     5033 10월 23 04:00 file_client.c
+-rwxrwxr-x 1 jyb5858 jyb5858    14216 10월 22 00:10 file_serve
+-rwxrwxr-x 1 jyb5858 jyb5858    14408 10월 23 18:06 file_server
+-rw-rw-r-- 1 jyb5858 jyb5858     6062 10월 23 18:05 file_server.c
+-rwxrwxr-x 1 jyb5858 jyb5858    14408 10월 22 23:03 file_server1
+-rw-rw-r-- 1 jyb5858 jyb5858 61478883 10월 20 20:47 hanshin.pdf
+-rw-rw-r-- 1 jyb5858 jyb5858        0 10월 23 18:07 imsi
+-rw-rw-r-- 1 jyb5858 jyb5858        0 10월 22 22:11 imsi.dat
+-rw-rw-r-- 1 jyb5858 jyb5858     1609 10월 23 18:06 imsi2
+-rwxrwxr-x 1 jyb5858 jyb5858     8976 10월 22 15:33 system
+-rw-rw-r-- 1 jyb5858 jyb5858     1333 10월 22 16:55 system.c
+-rwxrwxr-x 1 jyb5858 jyb5858     8768 10월 20 15:32 test
+-rw-rw-r-- 1 jyb5858 jyb5858      501 10월 20 15:38 test.c
+-rw-rw-r-- 1 jyb5858 jyb5858      287 10월 20 19:34 ttt
+-rw-r----- 1 jyb5858 jyb5858  1979173  7월 19  2000 u.data
+-rw-rw-r-- 1 jyb5858 jyb5858  1979155 10월 23 03:24 user.data
